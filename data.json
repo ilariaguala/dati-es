@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nome": "ilaria",
+      "cognome": "guala",
+      "eta": "17",
+      "residenza": "Genova"
+    },
+    {
+      "id": 2,
+      "nome": "arturo",
+      "cognome": "verdi",
+      "eta": "34",
+      "residenza": "Acqui Terme"
+    },
+    {
+      "id": 3,
+      "nome": "Lucrezia",
+      "cognome": "Rossi ",
+      "eta": "56",
+      "residenza": "Milazzo"
+    },
+    {
+      "id": 4,
+      "nome": " Giuseppe",
+      "cognome": "bianchi",
+      "eta": "43",
+      "residenza": "Roma"
+    }
+  ]
+}
